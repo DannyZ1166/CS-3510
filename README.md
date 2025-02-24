@@ -1,5 +1,3 @@
-design and analysis algorithms
-
 - **Problem Set 1:**  
   - Introduction and Divide and Conquer  
   - The Master Theorem and MergeSort  
